@@ -1,0 +1,5 @@
+G:\Angular Project\Sample ArchitectureBS23\Sample Architecture\Angular\bin\Debug\Angular.dll
+G:\Angular Project\Sample ArchitectureBS23\Sample Architecture\Angular\bin\Debug\Angular.pdb
+G:\Angular Project\Sample ArchitectureBS23\Sample Architecture\Angular\obj\Debug\Angular.csprojAssemblyReference.cache
+G:\Angular Project\Sample ArchitectureBS23\Sample Architecture\Angular\obj\Debug\Angular.dll
+G:\Angular Project\Sample ArchitectureBS23\Sample Architecture\Angular\obj\Debug\Angular.pdb

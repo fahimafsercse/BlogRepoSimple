@@ -1,0 +1,9 @@
+C:\Users\Fahim\Desktop\SampleArchitecture\Sample Architecture\Helper\bin\Debug\Helper.dll
+C:\Users\Fahim\Desktop\SampleArchitecture\Sample Architecture\Helper\bin\Debug\Helper.pdb
+C:\Users\Fahim\Desktop\SampleArchitecture\Sample Architecture\Helper\obj\Debug\Helper.dll
+C:\Users\Fahim\Desktop\SampleArchitecture\Sample Architecture\Helper\obj\Debug\Helper.pdb
+G:\Angular Project\Sample ArchitectureBS23\Sample Architecture\Helper\bin\Debug\Helper.dll
+G:\Angular Project\Sample ArchitectureBS23\Sample Architecture\Helper\bin\Debug\Helper.pdb
+G:\Angular Project\Sample ArchitectureBS23\Sample Architecture\Helper\obj\Debug\Helper.csprojAssemblyReference.cache
+G:\Angular Project\Sample ArchitectureBS23\Sample Architecture\Helper\obj\Debug\Helper.dll
+G:\Angular Project\Sample ArchitectureBS23\Sample Architecture\Helper\obj\Debug\Helper.pdb

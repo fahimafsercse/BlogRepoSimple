@@ -1,0 +1,40 @@
+C:\Users\Fahim\Desktop\SampleArchitecture\Sample Architecture\BL\bin\Debug\BL.dll
+C:\Users\Fahim\Desktop\SampleArchitecture\Sample Architecture\BL\bin\Debug\BL.pdb
+C:\Users\Fahim\Desktop\SampleArchitecture\Sample Architecture\BL\bin\Debug\Helper.dll
+C:\Users\Fahim\Desktop\SampleArchitecture\Sample Architecture\BL\bin\Debug\Interface.dll
+C:\Users\Fahim\Desktop\SampleArchitecture\Sample Architecture\BL\bin\Debug\Model.dll
+C:\Users\Fahim\Desktop\SampleArchitecture\Sample Architecture\BL\bin\Debug\EntityFramework.dll
+C:\Users\Fahim\Desktop\SampleArchitecture\Sample Architecture\BL\bin\Debug\Helper.pdb
+C:\Users\Fahim\Desktop\SampleArchitecture\Sample Architecture\BL\bin\Debug\Interface.pdb
+C:\Users\Fahim\Desktop\SampleArchitecture\Sample Architecture\BL\bin\Debug\Model.pdb
+C:\Users\Fahim\Desktop\SampleArchitecture\Sample Architecture\BL\bin\Debug\Model.dll.config
+C:\Users\Fahim\Desktop\SampleArchitecture\Sample Architecture\BL\bin\Debug\EntityFramework.xml
+C:\Users\Fahim\Desktop\SampleArchitecture\Sample Architecture\BL\obj\Debug\BL.csprojAssemblyReference.cache
+C:\Users\Fahim\Desktop\SampleArchitecture\Sample Architecture\BL\obj\Debug\BL.csproj.CopyComplete
+C:\Users\Fahim\Desktop\SampleArchitecture\Sample Architecture\BL\obj\Debug\BL.dll
+C:\Users\Fahim\Desktop\SampleArchitecture\Sample Architecture\BL\obj\Debug\BL.pdb
+C:\Users\Fahim\Desktop\SampleArchitecture\Sample Architecture\BL\bin\Debug\BL.dll.config
+C:\Users\Fahim\Desktop\SampleArchitecture\Sample Architecture\BL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Fahim\Desktop\SampleArchitecture\Sample Architecture\BL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Fahim\Desktop\SampleArchitecture\Sample Architecture\BL\bin\Debug\Utility.dll
+C:\Users\Fahim\Desktop\SampleArchitecture\Sample Architecture\BL\bin\Debug\Utility.pdb
+G:\Angular Project\Sample ArchitectureBS23\Sample Architecture\BL\bin\Debug\BL.dll.config
+G:\Angular Project\Sample ArchitectureBS23\Sample Architecture\BL\bin\Debug\BL.dll
+G:\Angular Project\Sample ArchitectureBS23\Sample Architecture\BL\bin\Debug\BL.pdb
+G:\Angular Project\Sample ArchitectureBS23\Sample Architecture\BL\bin\Debug\EntityFramework.dll
+G:\Angular Project\Sample ArchitectureBS23\Sample Architecture\BL\bin\Debug\EntityFramework.SqlServer.dll
+G:\Angular Project\Sample ArchitectureBS23\Sample Architecture\BL\bin\Debug\Helper.dll
+G:\Angular Project\Sample ArchitectureBS23\Sample Architecture\BL\bin\Debug\Interface.dll
+G:\Angular Project\Sample ArchitectureBS23\Sample Architecture\BL\bin\Debug\Model.dll
+G:\Angular Project\Sample ArchitectureBS23\Sample Architecture\BL\bin\Debug\Utility.dll
+G:\Angular Project\Sample ArchitectureBS23\Sample Architecture\BL\bin\Debug\Helper.pdb
+G:\Angular Project\Sample ArchitectureBS23\Sample Architecture\BL\bin\Debug\Interface.pdb
+G:\Angular Project\Sample ArchitectureBS23\Sample Architecture\BL\bin\Debug\Model.pdb
+G:\Angular Project\Sample ArchitectureBS23\Sample Architecture\BL\bin\Debug\Model.dll.config
+G:\Angular Project\Sample ArchitectureBS23\Sample Architecture\BL\bin\Debug\Utility.pdb
+G:\Angular Project\Sample ArchitectureBS23\Sample Architecture\BL\bin\Debug\EntityFramework.xml
+G:\Angular Project\Sample ArchitectureBS23\Sample Architecture\BL\bin\Debug\EntityFramework.SqlServer.xml
+G:\Angular Project\Sample ArchitectureBS23\Sample Architecture\BL\obj\Debug\BL.csprojAssemblyReference.cache
+G:\Angular Project\Sample ArchitectureBS23\Sample Architecture\BL\obj\Debug\BL.csproj.CopyComplete
+G:\Angular Project\Sample ArchitectureBS23\Sample Architecture\BL\obj\Debug\BL.dll
+G:\Angular Project\Sample ArchitectureBS23\Sample Architecture\BL\obj\Debug\BL.pdb

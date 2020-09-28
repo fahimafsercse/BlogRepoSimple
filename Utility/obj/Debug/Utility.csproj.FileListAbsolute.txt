@@ -1,0 +1,10 @@
+C:\Users\Fahim\Desktop\SampleArchitecture\Sample Architecture\Utility\bin\Debug\Utility.dll
+C:\Users\Fahim\Desktop\SampleArchitecture\Sample Architecture\Utility\bin\Debug\Utility.pdb
+C:\Users\Fahim\Desktop\SampleArchitecture\Sample Architecture\Utility\obj\Debug\Utility.csprojAssemblyReference.cache
+C:\Users\Fahim\Desktop\SampleArchitecture\Sample Architecture\Utility\obj\Debug\Utility.dll
+C:\Users\Fahim\Desktop\SampleArchitecture\Sample Architecture\Utility\obj\Debug\Utility.pdb
+G:\Angular Project\Sample ArchitectureBS23\Sample Architecture\Utility\bin\Debug\Utility.dll
+G:\Angular Project\Sample ArchitectureBS23\Sample Architecture\Utility\bin\Debug\Utility.pdb
+G:\Angular Project\Sample ArchitectureBS23\Sample Architecture\Utility\obj\Debug\Utility.csprojAssemblyReference.cache
+G:\Angular Project\Sample ArchitectureBS23\Sample Architecture\Utility\obj\Debug\Utility.dll
+G:\Angular Project\Sample ArchitectureBS23\Sample Architecture\Utility\obj\Debug\Utility.pdb

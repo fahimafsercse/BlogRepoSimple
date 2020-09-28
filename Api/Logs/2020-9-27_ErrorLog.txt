@@ -1,0 +1,13 @@
+Layer Name :-Helper
+Class Name :-UserServices
+Method Name :-GetAllRequest
+Date Time :-9/27/2020 7:39:29 PM
+Error Message :-No connection string named 'BS23DBContext1' could be found in the application config file.
+
+
+
+Layer Name :-Helper
+Class Name :-UserServices
+Method Name :-GetAllRequest
+Date Time :-9/27/2020 7:40:07 PM
+Error Message :-No connection string named 'BS23DBContext1' could be found in the application config file.
